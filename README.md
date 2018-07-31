@@ -1,0 +1,2 @@
+# loter
+The loterias App
